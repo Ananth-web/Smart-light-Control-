@@ -41,3 +41,5 @@ ESP32 (optional, if using WiFi simulation)
 4. Wiring (basic control using button on serial):
 
 Connect LED to pin 13 (through resistor to GND)
+
+<img width="1919" height="899" alt="Image" src="https://github.com/user-attachments/assets/484a855f-1604-44ac-b515-3b04b93d3616" />
